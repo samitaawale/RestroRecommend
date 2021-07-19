@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"get",
+				"getEnglishDate"
+			],
+			[
+				"onke",
+				"onkeyup	Attr"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"in",
+				"inputText"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cell",
+				"cellpadding	Attr"
+			],
+			[
+				"CE",
+				"cellspacing	Attr"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"c",
+				"cellspacing	Attr"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"n",
+				"Number"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/websitehtml/css/sample.css",
+		"/C/xampp/htdocs/websitehtml/homepage.php",
+		"/C/xampp/htdocs/restReco/index.php",
+		"/C/xampp/htdocs/restReco/includes/header.php",
+		"/C/xampp/htdocs/restReco/about_us.php",
+		"/C/xampp/htdocs/restReco/includes/footer.php",
+		"/C/Users/User/Downloads/fiscal_year.sql",
+		"/C/xampp/htdocs/websitehtml/css/style.css",
+		"/C/websitehtml/index.html",
+		"/C/xampp/htdocs/sampleloginpage/index.html",
+		"/C/websitehtml/homepage.php",
+		"/C/xampp/htdocs/sampleloginpage/images/final.jpg",
+		"/C/Users/User/Desktop/dance2/index.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/User/Desktop/test.html",
+		"/C/Users/User/Desktop/x.sql",
+		"/C/Users/User/Desktop/hide.html",
+		"/E/SastraCreation/lrms-frontend/src/app/modules/tax-calculation/pages/tax-calculation-brief/tax-calculation-brief.component.html",
+		"/C/Users/User/Downloads/municipality.sql",
+		"/C/Users/User/Downloads/fiscal_year (1).sql",
+		"/C/Users/User/Documents/dumps/Dump20181001.sql",
+		"/C/Users/User/Downloads/lrms (1).sql",
+		"/C/Users/User/Desktop/nepali.html",
+		"/E/SastraCreation/LRMS/.git/config",
+		"/E/SastraCreation/lrms-frontend/.git/config",
+		"/C/Users/User/Desktop/ToUpperCase.html",
+		"/C/Users/User/Desktop/tlo/pages/tlo-create/tlo-create.component.ts",
+		"/C/Users/User/Desktop/tlo/pages/tlo-edit/tlo-edit.component.ts",
+		"/C/Users/User/Desktop/tlo/pages/tlo-edit/tlo-edit.component.html",
+		"/C/Users/User/Desktop/tlo/pages/tlo-create/tlo-create.component.html",
+		"/C/Users/User/Desktop/tlo/shared/components/tlo-form/tlo-form.component.html",
+		"/C/Users/User/Desktop/tlo/shared/components/tlo-form/tlo-form.component.ts",
+		"/C/Users/User/Desktop/tlo/pages/tlo/tlo.component.html",
+		"/C/Users/User/Desktop/tlo/pages/tlo/tlo.component.ts",
+		"/C/Users/User/Desktop/tlo/pages/tlo/tlo.component.spec.ts",
+		"/C/Users/User/Desktop/tlo/pages/tlo/tlo.component.scss",
+		"/C/Users/User/Desktop/tlo/tlo.module.ts",
+		"/C/Users/User/Desktop/tlo/tlo-routing.module.ts",
+		"/C/Users/User/Desktop/tlo/tlo.module.spec.ts",
+		"/C/Users/User/Desktop/tlo/services/tlo.service.ts",
+		"/C/Users/User/Desktop/BackendAPI/listner/parseBufferData.js",
+		"/C/Users/User/Desktop/BackendAPI/listner/tcpserver.log",
+		"/C/Users/User/Desktop/BackendAPI/listner/packetparser.js",
+		"/C/Users/User/Desktop/BackendAPI/listner/config.js",
+		"/C/Users/User/Desktop/BackendAPI/listner/MongoFactory.js",
+		"/C/Users/User/Desktop/BackendAPI/listner/tcpserver.js",
+		"/C/Users/User/Desktop/tcpserver.txt",
+		"/C/Users/User/Desktop/packetparser.txt",
+		"/C/Users/User/Desktop/checkData.html",
+		"/C/xampp/htdocs/restReco/js/location.js",
+		"/C/xampp/htdocs/restReco/map.php",
+		"/E/Eclipse_Projects/springtest/src/main/webapp/WEB-INF/jsp/index.jsp",
+		"/C/Users/User/Desktop/Test 2/Home2.html",
+		"/E/Eclipse_Projects/springtest/src/main/webapp/index.jsp",
+		"/C/Users/User/Desktop/index.html",
+		"/C/Users/User/Desktop/design/orientatiom.html",
+		"/C/Users/User/Desktop/design/hideMe.html",
+		"/C/Users/User/Desktop/design/image.html",
+		"/C/Users/User/Desktop/design/responsive1.html",
+		"/C/Users/User/Desktop/design/htmlResponsive.html",
+		"/C/Users/User/Desktop/design/nona.html",
+		"/C/Users/User/Desktop/design/menu.html",
+		"/C/Users/User/Desktop/design/media.html",
+		"/C/Users/User/Desktop/design/responsive.html",
+		"/E/IntegratedXchangerFinal_copy/src/java/config/AppConfig.java",
+		"/C/Users/User/Downloads/Compressed/apache-tomcat-9.0.0.M26/bin/catalina.bat",
+		"/C/Users/User/Desktop/bankdeposit.sql",
+		"/C/Users/User/Downloads/currencies.sql",
+		"/E/chimera/IntegratedXchangerFinal_1_1/src/java/com/controller/RatesController.java",
+		"/E/chimera/IntegratedXchangerFinal_1_1/src/java/com/dao/RateDAO.java",
+		"/E/chimera/IntegratedXchangerFinal_1_1/src/java/com/dao/StaffDao.java",
+		"/E/chimera/IntegratedXchangerFinal_1_1/src/java/com/controller/Scontroller.java",
+		"/E/chimera/IntegratedXchangerFinal_1_1/src/java/com/dao/RatesMapper.java",
+		"/E/pratik folder/cprogramming/Shop Cart Free Website Template - Free-CSS.com/shop-cart/assets/css/bootstrap.css",
+		"/E/pratik folder/cprogramming/Shop Cart Free Website Template - Free-CSS.com/shop-cart/index.html",
+		"/C/Users/User/Desktop/jquery/jquery.js",
+		"/E/pratik folder/online/slider.htm",
+		"/E/pratik folder/online/scrollable_table.html",
+		"/E/pratik folder/online/index.html",
+		"/C/Users/User/Desktop/purchase.html",
+		"/C/xampp/tomcat/conf/server.xml",
+		"/C/Users/User/Downloads/xchanger.sql",
+		"/C/Users/User/Desktop/pratik.html",
+		"/E/Other Projects/sql/orginfo.sql",
+		"/C/Users/User/Desktop/nrb.html",
+		"/C/Users/User/Desktop/monthly_reges.html",
+		"/E/pratik folder/cprogramming/startbootstrap-shop-homepage-gh-pages/index.html",
+		"/D/ApplicantController.java",
+		"/C/Users/User/Desktop/staffs.sql",
+		"/C/Users/User/Desktop/ForeignExchangeRates/web/WEB-INF/jsp/bankdepositform.jsp",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/product-persistence/src/main/java/co/bbenson/productpersistence/InMemoryProductRepository.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/applications/product-api/src/main/java/co/bbenson/SpringValidationExampleApplication.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/applications/product-api/src/main/java/co/bbenson/product/ProductController.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/applications/product-api/src/main/java/co/bbenson/product/ProductCreateRequest.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/product-domain/src/main/java/co/bbenson/product/Product.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/product-domain/src/main/java/co/bbenson/product/ProductRepository.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/api-error/src/main/java/co/bbenson/apierror/ApiValidationExceptionHandler.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/api-error/src/main/java/co/bbenson/apierror/ApiErrorsView.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/api-error/src/main/java/co/bbenson/apierror/ApiGlobalError.java",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/api-error/src/main/java/co/bbenson/apierror/ApiFieldError.java",
+		"/C/Users/User/Desktop/ForeignExchangeRates/src/java/com/xchangerates/dao/BankSlipMapper.java",
+		"/C/Users/User/Desktop/ForeignExchangeRates/src/java/com/xchangerates/dao/BankMapper.java",
+		"/C/Users/User/Desktop/ForeignExchangeRates/src/java/com/xchangerates/dao/RateDAOImpl.java",
+		"/C/Users/User/Desktop/ForeignExchangeRates/src/java/com/xchangerates/model/Bank.java",
+		"/C/Users/User/Desktop/ForeignExchangeRates/src/java/com/xchangerates/model/BankDeposit.java",
+		"/C/Users/User/Desktop/ForeignExchangeRates/src/java/com/xchangerates/DepositController.java",
+		"/C/Users/User/Downloads/binu.html",
+		"/C/Users/User/Downloads/exchanger (1).sql",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/components/api-error/src/main/java/co/bbenson/apierror/ApiErrorCode.java",
+		"/C/Users/User/Desktop/exchanger.sql",
+		"/C/Users/User/Downloads/Compressed/SpringValidationExample-master/applications/product-api/src/main/java/co/bbenson/product/ProductCreateRequestValidator.java",
+		"/E/Other Projects/select.html",
+		"/D/userdetails.js",
+		"/E/Other Projects/receipt_update.html",
+		"/E/Other Projects/receipt.html",
+		"/C/Users/User/Downloads/application (1).sql",
+		"/C/Users/User/Downloads/districts.txt",
+		"/C/Users/User/Desktop/Latest/Exchanger/web/WEB-INF/exchanger-servlet.xml",
+		"/H/xchanger.sql",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/ui/button/AddNewButtonActionListener.java",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/ui/button/DeleteButtonActionListener.java",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/ui/button/ListTableActionListener.java",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/ui/button/ActionListenerButton.java",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/ui/MainFrame.java",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/ui/BoxLayoutPanel.java",
+		"/C/Users/User/Downloads/Compressed/todo/src/todo/app-context.xml",
+		"/C/Users/User/Downloads/Compressed/flat-login-form_2/index.html",
+		"/C/Users/User/Downloads/Compressed/Exchanger_1/web/WEB-INF/jsp/form.jsp"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"pink",
+			"4169E1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "anit.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1666 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+
+* {
+	font-family: 'Open Sans','Verdana','Arial';
+}
+
+a,a:visited,a:active {
+	color:#00f;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#00f;
+	text-decoration:underline;
+}
+
+fieldset,img {
+	border:none;
+}
+
+ul,ol {
+	list-style-type:none;
+}
+
+h1 {
+	color:#0482ff;
+	font-size:28px;
+	padding:0;
+	margin:0 0 10px 0;
+}
+
+h1.homepage {
+	font-size:18px;
+}
+
+h2 {
+	color:#888;
+	font-size:20px;
+	padding:0;
+	margin:0;
+}
+
+div,p,label,ul,li,input,h3,h4,h5,h6 {
+	margin:0;
+	padding:0;
+}
+
+dt {
+	font-weight:bold;
+	margin-top:10px;
+}
+
+.displayOn {
+	display:inherit;
+}
+
+.displayOff {
+	display:none;
+}
+
+.displayInline {
+	display:inline;
+}
+
+.clear {
+	display:block;
+	clear:both;
+}
+
+.floatleft {
+	display:block;
+	float:left;
+}
+
+.floatright {
+	display:block;
+	float:right;
+}
+
+html, body {
+	margin:0 auto;
+	padding:0;
+	font-family:Lucida Sans Unicode,Verdana,Tahoma,Arial;
+	font-size: 10pt;
+	color:#000000;
+	text-align:left;
+	background:#eee;
+}
+
+#body-header {
+	background: rgb(240,240,240);
+	background: linear-gradient(to bottom, rgba(248,248,248,1) 100%,rgba(240,240,240,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#f8f8f8',GradientType=0 );
+	border-bottom:2px solid #e2e2e2;
+	clear:both;
+	width:100%;
+	height:100px;
+}
+
+#body-header-content {
+	width:960px;
+	margin:0 auto;
+}
+
+#body-header-content img {
+	float:left;
+	margin:12px 0 0 0;
+}
+
+#main {
+	background-color:#fff;
+	width:980px;
+	margin:0 auto;
+	padding:20px;
+}
+
+#main-new {
+	background-color:#fff;
+	width:990px;
+	margin:0 auto;
+	padding:0;
+}
+
+#main-body {
+	clear:both;
+	width:100%;
+	margin:0 0 20px 0;
+}
+
+#f54-logo {
+	margin:30px 0 0 0;
+	width:230px;
+	float:left;
+}
+
+#f54-logo img {
+	margin:0;
+}
+
+#holiday-msg {
+	padding-bottom:20px;
+}
+
+ul#top-header-list {
+	margin:10px 0 0 0;
+	padding:0;
+	float:right;
+}
+
+ul#top-header-list li {
+	display:block;
+	float:left;
+	padding:0 10px;
+}
+
+ul#top-header-list li a,ul#top-header-list li a:visited {
+	font-size:14px;
+	color:#333;
+}
+
+ul#top-header-list li.header-btn {
+
+}
+ul#top-header-list li.header-btn a,ul#top-header-list li.header-btn a:visited {
+	background-color:#6eb857;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	padding:5px;
+	color:#fff !important;
+}
+
+#header-main-content {
+	margin:0;
+	padding:0;
+	width:700px;
+	float:left;
+}
+
+#header-main-content form {
+	display:block;
+	float:right;
+	margin-top:10px;
+}
+
+#q {
+	font-size:16px;
+	margin:0;
+	padding:8px;
+	width:300px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 1px #ccc;
+}
+
+#loc {
+	font-size:16px;
+	margin:0;
+	padding:8px;
+	width:300px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 1px #ccc;
+}
+
+form#restaurantsearch div {
+	float:left;
+	margin:5px 5px 0 0;
+}
+
+#main h1 {
+	color:#444;
+	font-size: 30px !important;
+	margin:15px 0 0 0;
+}
+
+#col-right {
+	margin-top:20px;
+	float:right;
+	width:160px;
+}
+
+#listing-main-col {
+	float:left;
+	width:629px;
+	margin:0 10px;
+}
+
+#listing-main-col h1 {
+	color:#333;
+}
+
+#listing-side-col {
+	float:left;
+	width:336px;
+	margin-top:15px;
+}
+#restaurant-google-map2 {
+	width:336px;
+	height:280px;
+}
+
+#listing-img-mid {
+	padding:0 14px;
+}
+
+#listing-summary-col1 {
+	float:left;
+	width:325px;
+	margin-right:5px;
+}
+
+#listing-summary-col2 {
+	float:left;
+	width:214px;
+}
+
+.listing-summary-col {
+	margin-top:10px;
+}
+
+.listing-summary-col p {
+	padding:5px 0;
+}
+
+#listing-photos {
+	margin:15px 0;
+}
+
+#listing-photos li img {
+	width:65px;
+}
+
+.listing-side-sub-section h2 {
+	margin: 15px;
+}
+
+.listing-side-sub-section {
+	margin:15px 0 0 0;
+	background: rgb(238,238,238); /* Old browsers */
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 2px #fff;
+	box-shadow: 0 0 0 2px #eee;
+	background: linear-gradient(to bottom, rgba(250,250,250,1) 0%,rgba(235,235,235,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+#col-250 div.listing-side-sub-section {
+	padding:10px;
+}
+
+#blogger-section li {
+	padding:15px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	box-shadow: 2px 2px 5px 2px #eee;
+}
+#blogger-section li p span{
+	color:#006400;
+}
+
+img.blogger-arrow {
+	position:relative !important;
+	top:7px !important;
+	left:10px !important;
+	width:21px !important;
+	height:21px !important;	
+}
+
+#read-more-blogs {
+	padding:5px;
+	background-color:#f6f6f6;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 2px #fff;
+	box-shadow: 1px 1px 0 1px #eee;
+}
+
+ul#tips,ul#tweets {
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 2px #eee;
+}
+
+ul#tips li,ul#tweets li {
+	padding:10px;
+}
+ul#tips li:nth-of-type(odd),ul#tweets li:nth-of-type(odd) {
+	background-color:#f6f6f6;
+}
+
+ul#tips li img {
+	margin-right:20px;
+}
+
+ul#tips p.tip,ul#tweets p.tip {
+	width:100%;
+}
+ul#tips,ul#tweets p.tipby {
+	color:#333;
+	font-size:10px;
+}
+
+p.tip span {
+	display:inline-block;
+	float:left;
+	width:50px;
+	height:50px;
+	margin-right:10px;
+}
+
+div#listing-summary-col1 p {
+	float:none;
+	clear:both !important;
+}
+
+#listing-addr {
+	font-size:14px;
+	background:#fff url(http://foodio54.com/images/assets/icn-addr.png) no-repeat top left !important;
+	padding-left:20px;
+}
+
+ul#hours-of-operation,ul#listing-hours-of-operation {
+	background:#fff url(http://foodio54.com/images/assets/icn-hours.png) no-repeat top left !important;
+	padding-left:20px;
+}
+
+#listing-phone {
+	color:#519D39;
+	font-size:14px;
+	padding-left:20px;
+}
+
+#listing-url,#listing-social,#listing-cuisines2 {
+	padding-left:20px;
+}
+
+#listing-price2 {
+	color:#777;
+}
+
+#listing-price2 span{
+	color:#333;
+}
+ul#hours-of-operation li {
+	float:none;
+	clear:both;
+}
+ul#hours-of-operation li span.day,ul#listing-hours-of-operation li span.listing-day {
+	display:block;
+	float:left;
+	width:80px;
+	font-weight:bold;
+}
+ul#hours-of-operation li span {
+	display:block;
+	float:left;
+}
+
+#listing-claim {
+	font-size:10px;
+}
+
+#listing-extra {
+	margin:10px;
+}
+
+/* Search */
+#col-cuisine {
+	float:left;
+	width:188px;
+	margin:0 10px 0 0;
+	background-color:#fff;
+	border:none;
+	z-index:5401;
+	position:relative;
+}
+#col-cuisine div {
+	background-color:#f7f7f7;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 2px #fff;
+	box-shadow: 0 0 0 2px #eee;
+	margin-bottom:20px;
+}
+
+#col-cuisine h2{
+	margin:10px 10px 4px 10px;
+	padding:0;
+	font-size:16px;
+	text-align:left;
+}
+
+#col-cuisine ul {
+	margin:0 0 10px 0;
+	padding:0;
+}
+
+#col-cuisine ul li {
+	text-align:left;
+	margin:2px 0 2px 10px;
+}
+
+#col-listings {
+	float:right;
+	margin:0 !important;
+	width:620px !important;
+}
+
+#adsense-header-container {
+	width:960px;
+	height:90px;
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:160px;
+	bottom:0px;
+	margin:0 auto;
+	z-index:5400;
+}
+
+#adsense-header {
+	margin-left:220px;
+}
+
+.adsense-insert-ad {
+	display:none !important;
+}
+
+#restaurants-main {
+	width:780px;
+	float:right;
+	padding-top:90px;
+}
+
+#col-listings #recap {
+	margin:0 0 8px 0;
+	padding:0;
+}
+
+#col-listings #recap h1 {
+	margin:0;
+	padding:0;
+	font-size:22px;
+	color:#666;
+}
+
+#col-listings ul li {
+	display:block;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 3px #f3f3f3;
+	margin:20px 10px 20px 0;
+}
+
+#col-listings ul li.featured-listing {
+	background-color:#ffc;
+	margin:20px 10px 0 0 !important;
+}
+
+#col-listings ul li.featured-listing br.clear {
+	display:none;
+}
+
+div.isFeatured {
+	width:100%;
+	text-align:right;
+	padding-bottom:5px;
+}
+.isFeatured p {
+	color:#999;
+	padding:0 10px;
+}
+
+#col-listings ul li.featured-listing h3>a {
+	font-size:20px;
+}
+
+p.featured-phone {
+	color:#555;
+	padding-left:20px;
+	font-weight:bold;
+	font-size:18px;
+}
+
+#col-listings ul li>div>img {
+	float:left;
+	margin:10px;
+}
+
+div.restaurant-nap {
+	width:350px;
+	float:left;
+}
+
+div.restaurant-price-rating {
+	width:120px;
+	float:left;
+}
+
+div.rating-info {
+	float:right;
+	width:120px;
+	padding-top:0;
+	margin:0px 10px 0 0;
+}
+
+div.rating-info div {
+	float:right;
+}
+
+div.rating-info p {
+	text-align:right;
+}
+
+div.restaurant-price {
+	float:right;
+	margin:0px 10px 0 0;
+}
+
+div.restaurant-menu {
+	float:right;
+	margin:5px 10px 0 0;
+}
+
+div#col-listings ul li h3, div#col-listings ul li div.restaurant-price-rating {
+	margin-top:10px;
+}
+
+.listing-addr-2 {
+	color:#555;
+	background:url(http://foodio54.com/images/assets/icn-addr.png) no-repeat top left !important;
+	padding-left:20px;
+}
+.multi-loc-addr {
+	background:url(http://foodio54.com/images/assets/icn-addr.png) no-repeat top left !important;
+	padding-left:20px;
+}
+.listing-cuisines-2 {
+	/* padding-left:20px; */
+}
+
+div.quick-summary {
+	width:100%;
+	clear:both;
+	float:none;
+}
+
+div.quick-summary img {
+	margin:0 10px 0 45px;
+}
+div.quick-summary p {
+	margin:0;
+	padding:0;
+	width:90%;
+}
+
+div#col-710 {
+	width:710px;
+	margin:0 0 0 20px !important;
+	padding:0;
+	float:left;
+}
+
+div#col-760 {
+	width:760px;
+	margin:0 0 0 20px !important;
+	padding:0;
+	float:left;
+}
+
+div#col-710 h1 {
+	margin:0 !important;
+	padding:0 !important;
+}
+
+div#col-250 {
+	width:250px;
+	margin:0 !important;
+	padding:0 !important;
+	float:left;
+}
+div#col-250 div#city-map {
+	margin:0 !important;
+	width:250px !important;
+	height:250px !important;
+}
+
+div#city-top-restaurants {
+	float:left;
+	width:280px;
+}
+
+div#city-top-restaurants ol,div.city-top-cuisine ol {
+	list-style-type:decimal;
+}
+
+div#city-top-restaurants div#main-city-img {
+	float:right;
+}
+
+div#city-top-restaurants div#main-city-list {
+	display:block;
+	float:left;
+	width:350px;
+	margin-right:10px;
+}
+
+div#city-top-restaurants div#main-city-list ol li{
+	margin:8px 0;
+}
+
+div#city-top-restaurants {
+	width:100% !important;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	border-bottom:solid 2px #ddd;
+}
+
+p#find-more {
+	background: rgb(238,238,238); /* Old browsers */
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 2px #fff;
+	box-shadow: 0 0 0 2px #eee;
+	background: linear-gradient(to bottom, rgba(250,250,250,1) 0%,rgba(235,235,235,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+p#find-more {
+	padding:10px 0 10px 45px;
+}
+p#find-more a {
+	font-size:16px;
+	color:#00f !important;
+}
+
+div.city-top-cuisine {
+	margin:0 10px 20px 10px;
+	width:200px !important;
+	height:360px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 3px #ccc;
+	width:25%;
+	float:left;
+}
+
+div.city-top-cuisine h3 {
+	text-align:center;
+	margin:10px 10px 0 10px;
+	height:40px;
+}
+
+div.city-top-cuisine img {
+	margin:10px 25px;
+}
+
+.rate-u .rateOn,.rate-review .rateOn {
+	background-image:url(http://foodio54.com/images/assets/icn-star-on.png) !important;
+}
+
+.rate-p .rateOn {
+	background-image:url(http://foodio54.com/images/assets/icn-star-on.png) !important;
+}
+
+.rate-a .rateOn {
+	background-image:url(http://foodio54.com/images/assets/icn-star-on.png) !important;
+}
+
+.rateOff {
+	background-image:url(http://foodio54.com/images/assets/icn-star-off.png) !important;
+}
+
+.rate-u a,.rate-a a,.rate-p a,.rate-review a {
+	display:block;
+	float:left;
+	width:14px !important;
+	height:14px !important;
+}
+
+div#promo-food-blogs {
+	padding:0 10px;
+	background:transparent url(http://foodio54.com/images/assets/icn-quote.png) no-repeat 10px 10px !important;
+}
+
+div#promo-food-blogs h2 {
+	padding-left:30px;
+}
+
+#lnk-add-blog {
+	width:234px !important;
+	height:36px !important;
+	display:block !important;
+	color:#fff !important;
+	font-size:14px;
+	padding:7px 0 0 10px;
+	margin:10px 0 0 35px;
+	background:transparent url(http://foodio54.com/images/assets/btn-city-add-blog.png) no-repeat top left !important;
+}
+
+#col-250 #lnk-add-blog {
+	margin:10px 0 0 7px;
+}
+
+.holiday-col {
+	display:block;
+	float:left;
+	list-style-type:none;
+	width:240px;
+}
+
+.holiday-col li {
+	padding-left:25px;
+}
+
+#pagination {
+	margin-left:130px;
+}
+
+#pagination ol li {
+	display:block;
+	float:left;
+	margin:0 10px;
+	font-size:16px;
+	text-align:center;
+	font-weight:bold;
+}
+
+/* home page */
+#home-main {
+	/*background:#fff url(../images/home.jpg) no-repeat top left !important;*/
+	width:1280px;
+	
+	margin:0 auto;
+}
+
+#home-main h1 {
+	color:#fff;
+	margin:0;
+	padding:60px 0 30px 0;
+	font-size:40px;
+	text-align:center;
+}
+
+#home-search {
+	background: linear-gradient(to bottom, rgba(248,248,248,1) 100%,rgba(240,240,240,1) 100%); /* W3C */
+	border-radius:5px;
+	-moz-border-radius:5px;
+	padding:20px;
+	margin:0 150px;
+	border:solid 1px #ccc;
+	box-shadow: 1px 1px #999;
+}
+
+#home-search a,#home-signup a {
+	display:inline-block;
+	background:transparent url(../images/btn-search-home.png) no-repeat top left !important;
+	width:154px;
+	height:51px;
+	color:#fff !important;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:10px;
+	margin-left:25px;
+}
+
+#home-search #q {
+	width:400px;
+}
+
+#home-signup {
+	margin-top:100px;
+	text-align:center;
+	padding:30px 0;
+	background-color:rgba(48,48,48,0.5);
+}
+
+#home-signup h2 {
+	color:#fff;
+	margin-bottom:20px;
+}
+
+#home-cities {
+	margin:30px 0;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 3px #f3f3f3 !important;
+}
+
+#home-cities ul {
+	display:block;
+	float:left;
+	width:152px;
+	padding:40px 20px 20px 20px;
+	border-right:solid 1px #f3f3f3 !important;
+}
+
+#home-cities ul:first-of-type {
+	padding-top:20px !important;
+}
+#home-cities ul:last-of-type {
+	padding-top:20px !important;
+	border:none !important;
+}
+
+#home-recs ul li {
+	display:block;
+	float:left;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 3px #f3f3f3 !important;
+	margin:24px;
+}
+
+#home-recs ul li img {
+	display:block;
+	margin:10px 20px 0 20px;
+}
+#home-recs ul li a {
+	display:block;
+	margin:5px 20px;
+	font-weight:bold;
+}
+#home-recs ul li p {
+	background:#fff url(http://foodio54.com/images/assets/icn-addr.png) no-repeat top left !important;
+	margin:5px 20px;
+	padding:0 0 0 20px;
+}
+
+/* Footer */
+
+#related-content {
+	width:100%;
+	background-color:#868686;
+	padding:10px 0;
+}
+
+#related-content>div,#footer>div {
+	margin:0 auto;
+}
+
+#related-content a, #footer a, #footer p {
+	color:#fff !important;
+}
+
+#related-content ul li {
+	display:inline-block;
+	padding:4px;
+}
+
+#footer {
+	width:100%;
+	background-color:#727272;
+	padding:10px 0;
+}
+
+#footer-nav {
+	float:left;
+	margin:0;
+}
+
+#footer-nav ul li{
+	padding:4px;
+}
+
+#footer-contact {
+	width:380px;
+	float:left;
+	margin:0;
+}
+
+#footer-contact p {
+	margin:4px 0 10px 10px;
+}
+
+#footer-contact ul li{
+	display:inline-block;
+	margin:10px;
+}
+
+#footer-copyright {
+	width:300px;
+	float:left;
+	margin:0;
+}
+
+#f-f {
+	display:inline-block;
+	width:27px;
+	height:27px;
+	background:#727272 url(../images/footer-sprite.png) no-repeat 0 0;
+}
+#f-t {
+	display:inline-block;
+	width:27px;
+	height:27px;
+	background:#727272 url(../images/footer-sprite.png) no-repeat 0 -27px;
+}
+#f-p {
+	display:inline-block;
+	width:27px;
+	height:27px;
+	background:#727272 url(../images/footer-sprite.png) no-repeat 0 -54px;
+}
+#f-c {
+	display:inline-block;
+	width:50px;
+	height:13px;
+	background:#727272 url(../images/footer-sprite.png) no-repeat 0 -81px;
+}
+#f-icn {
+	display:block;
+	width:43px;
+	height:43px;
+	background:#727272 url(../images/footer-sprite.png) no-repeat 0 -94px;
+}
+
+ul.cols3 {
+	display:block;
+	float:left;
+	width:33%;
+	list-style-type:none
+}
+
+ul.cols3 li {
+	padding:3px 0;
+}
+ul.cols3 li a {
+	font-size:16px;
+}
+
+ul.alphalist {
+	margin:0;
+	padding:20px;
+	list-style-type:none
+}
+
+ul.alphalist li,ul.placeOptions li {
+	display:inline;
+	margin:0;
+	border:none
+}
+
+ul.alphalist li a,ul.alphalist li span,ul.placeOptions li a {
+	text-decoration:none;
+	font-size:16px;
+	padding:2px 5px 0 0
+}
+
+ul.city-cuisines {
+	display:block;
+	float:left;
+	width:190px;
+	margin-right:10px;
+}
+ul.city-cuisines li{
+	padding:5px;
+}
+
+#menu {
+	margin:0 20px;
+	margin-top:20px;
+	border-bottom:solid 1px #333;
+}
+
+#menu h3 {
+	 margin-top:20px;
+	border-bottom:solid 1px #333;
+}
+
+#menu li {
+	padding:10px 0;
+}
+
+#menu span.menuprice {
+	color:#393;
+}
+
+#menu span.menudesc {
+	color:#777;
+}
+
+#blogger-section {
+	width:width:600px;
+}
+#blogger-section h2 {
+	margin-bottom:10px;
+}
+#blogger-section ul li {
+	border-bottom:1px solid #eee;
+	margin-bottom:10px;
+	padding-bottom:10px;
+}
+#blogger-section ul li img {
+	float:left;
+	width:65px;
+	height:65px;
+	margin-right:10px;
+}
+#blogger-section ul li div {
+	float:left;
+	width:525px;
+}
+
+.blogger-section-listing {
+	padding:0 10px;
+}
+
+#promote-blogs {
+	border:solid 1px #333;
+	background-color:#ffc;
+	padding:20px 10px;
+	margin:20px 0;
+}
+
+ol#blog-leaderboard {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+ol#blog-leaderboard li {
+	padding:10px 5px;
+}
+
+ol#blog-leaderboard li:nth-of-type(even) {
+	background-color:#f8f8f8;
+}
+
+ol#blog-leaderboard h3 {
+	float:left;
+}
+
+ol#blog-leaderboard h4 {
+	color:#ccc !important;
+	margin:0 10px 0 0;
+	float:left;
+}
+
+ol#blog-leaderboard div {
+	float:left;
+	margin:0 10px;
+}
+ol#blog-leaderboard div:last-of-type {
+	width:60px;
+	float:right;
+}
+
+#col-member-content {
+	float:left;
+	width:630px;
+}
+
+#col-member-nav {
+	float:left;
+	width:260px;
+}
+
+#member-content-top img {
+	float:left;
+}
+
+#member-content-top h2 {
+	margin:25px 10px;
+}
+
+#member-content-top a {
+	display:block;
+	float:left;
+	margin:0 10px;
+}
+
+#member-content-nav ul {
+	list-style-type:none;
+}
+
+#member-content-nav ul li {
+	display:block;
+	float:left;
+	width:150px;
+	height:28px;
+	font-size:16px;
+	font-weight:bold;
+	padding:6px 0 0 0;
+	text-align:center;
+	background:url(http://foodio54.com/images/member-tab.jpg) no-repeat top center;
+}
+
+#member-content-nav ul li.selected {
+	background:url(http://foodio54.com/images/member-tab-selected.jpg) no-repeat top center;
+}
+
+.member-nav-section {
+	width:252px;
+	height:155px;
+	margin:0 0 20px 0;
+	background:url(http://foodio54.com/redesign/images/member-rec-bg.gif) no-repeat top center;
+}
+
+#member-content-top h2 {
+	font-size:18px;
+	color:#666;
+}
+
+.member-nav-section h2 {
+	padding:8px;
+	font-size:18px;
+	color:#666;
+}
+
+img.recStrength{
+	float:left;
+	background:#fff url(http://foodio54.com/images/strengthSlider.gif) top left no-repeat;
+	padding:0;
+	margin:-10px 2px 2px 5px;
+	width:257px;
+	background-position:5px 0 0 0
+}
+
+#rec-msgs {
+	margin:-14px 0 0 0;
+}
+
+#member-nav-recs h3 {
+	font-size:13px;
+	margin:-4px 0 0 0;
+	padding:0;
+}
+
+div#member-nav-recs p {
+	clear:both;
+	margin:0 8px;
+	padding:0;
+	font-size:11px;
+}
+
+ul#membernotices li {
+	font-size:16px;
+	padding:8px;
+}
+#member-nav-friends h2 {
+	margin-bottom:10px;
+}
+#member-nav-friends ul {
+	margin:0;
+	padding:0 10px;
+}
+#member-nav-friends ul li {
+	font-size:18px;
+	clear:both;
+}
+
+#member-nav-friends ul li a.member-friend {
+	padding:10px;
+}
+
+fieldset#claim-edit label {
+	display:block;
+	float:left;
+	width:130px;
+	vertical-align:top;
+}
+fieldset#claim-edit input {
+	display:block;
+	float:left;
+}
+.row {
+	clear:both;
+	padding:6px 0;
+}
+
+#hoursSection label {
+	float:left;
+	width:130px;
+}
+ul.errors, #recap ul.errors {
+	background-color:#ffffcc;
+	color:#f00;
+	background-image:none;
+	border:solid 1px #f00;
+}
+ul.errors li, #recap ul.errors li {
+	padding:6px;
+	background:none;
+	border:none;
+}
+
+table#main-stats-overview tr td a {
+	float:none;
+	display:inline;
+	padding:0;
+	margin:0;
+}
+
+div#featured-listing-promo {
+	width:604px;
+	display:block;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	border:solid 3px #f3f3f3;
+	margin:10px 10px 10px 0;
+	background-color:#ffc;	
+}
+
+div#featured-listing-promo p {
+	margin:10px;
+	font-size:14px;
+}
+
+div#featured-listing-promo img {
+	margin-right:5px;
+}
+
+div#restaurant-photo-large {
+	width:500px;
+	margin:0 10px 20px 0;
+	padding:0;
+	float:left;
+}
+
+div#restaurant-photos-other {
+	width:455px;
+	padding:0;
+	float:left;
+}
+
+div#restaurant-photos-other ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+div#restaurant-photos-other ul li {
+	display:block;
+	float:left;
+	width:65px;
+
+}
+div#restaurant-photos-other ul li a:hover {
+	margin:0;
+	padding:0;
+	opacity:1.0;
+	filter:Alpha(opacity=100);
+}
+
+div#restaurant-photos-other ul li a {
+	margin:0;
+	padding:0;
+	opacity:0.5;
+	filter:Alpha(opacity=50);
+}
+
+ul.spotlightFeatures li {
+	height:90px;
+}
+
+.rdc-offers {
+	padding:10px;
+	margin:20px 0;
+	background-color:#ffc;
+	border-radius:5px;
+	border:solid 1px #6eb857;
+}
+.rdc-offers li {
+	margin:5px  0 5px 25px !important;
+	border:none !important;
+}
+#listing-all-photos>img {
+	width:320px;
+	height:320px;
+}
+#listing-all-photos ul{
+	float:left;
+	width:290px;
+}
+
+#listing-all-photos ul li{
+	float:left;
+	padding:3px;
+}
+
+#events-container {
+	padding:10px;
+}
+
+#events-container li {
+	margin:10px 0;
+}
+
+#events-container img{
+	margin-right:10px;
+}
+
+#events-container p{
+	font-size:12px;
+}
+img.noeventimg {
+	display:none;
+}
+#col-right #events-container li:nth-child(4),#col-right #events-container li:nth-child(5) {
+	display:none;
+}
+
+@media screen and (min-width: 1200px) {
+	#main {
+		width:1120px !important;
+	}
+	#restaurants-main {
+		width:920px !important;
+	}
+	#col-right {
+		width:300px !important;
+	}
+	img.noeventimg {
+		display:block;
+	}
+	#col-right #events-container li:nth-child(4),#col-right #events-container li:nth-child(5) {
+		display:block;
+	}
+}
+
+@media screen and (max-width: 736px) {
+	html,body,#main,#main-new,#main-body,#body-header,#body-header form,#body-header-content,#restaurants-main {
+		margin:0;
+		padding:0;
+		float:none !important;
+		clear:both !important;
+		width:100% !important;
+	}
+	#body-header,#main,#listing-main-col {
+		width:100% !important;
+		margin:0 !important;
+		padding:0 !important;
+	}
+	#body-header {
+		height:160px !important;
+	}
+	#top-header-list,#related-content,#footer,#body-topbar,#top-header-nav,#browse-regions,#main-footer,#col-right,#col-cuisine,#adblocktop,#showNeighborhoods,#job-msg,#q-hint,#loc-hint,#listing-explore,#city-skyline,#bottom-container {
+		display:none;
+	}
+	#f54-logo {
+		float:none;
+		margin:5px 0 0 5px;
+	}
+	#f54-logo img {
+		width:169px;
+		height:40px;
+	}
+	#body-header-content {
+		float:none;
+		width:100%;
+	}
+	#header-main-content {
+		float:none;
+		width:100%;
+	}
+	#header-main-content form {
+		float:none;
+		display:block;
+		margin:0;
+		padding:0;
+		width:100%;
+	}
+	#header-main-content form div {
+		float:none;
+		padding-top:5px;
+	}
+	#header-main-content form div:last-of-type {
+		padding:0 !important;
+	}
+	#q {
+		display:block;
+		float:none;
+		clear:both;
+		margin:20px 0 0 0 !important;
+		width:95%;
+	}
+	#loc {
+		display:block;
+		margin:0;
+		width:80%;
+		float:left;
+	}
+	#search-btn {
+		float:left;
+	}
+
+
+	#restaurant-logo {
+		width:40px;
+		height:40px;
+	}
+	#listing-main-col h1 {
+		font-size:16px !important;
+		margin:5px 0 0 45px !important;
+	}
+	#listing-summary-col1,#listing-summary-col2 {
+		float:none;
+		width:100% !important;
+		margin:0 !important;
+	}
+	#listing-addr {
+		padding-top:0 !important;
+	}
+	#listing-write-a-review,#listing-claim {
+		display:none;
+	}
+	#listing-all-photos,#listing-all-photos ul {
+		float:none;
+		width:100%;
+	}
+	#listing-all-photos>img{
+		display:none;
+	}
+	#listing-photos li {
+		width:30%;
+	}
+	#listing-photos li img{
+		width:100%;
+	}
+	#listing-img-mid {
+		padding:0 1%;
+	}
+	#listing-side-col {
+		width:100%;
+	}
+	#restaurant-google-map2 {
+		width:100%;		
+	}
+	#restaurant-google-map2 img {
+		width:300px;
+	}
+	#col-250,#main-city-img {
+		display:none;
+	}
+	div#col-710,div#col-760 {
+		width:100% !important;
+		margin:0 10px !important;
+		padding:0 !important;
+	}
+	div#col-710 h1 {
+		font-size:18px;
+	}
+	div#city-top-restaurants div#main-city-list {
+		float:none;
+		width:100%;
+		margin:0 !important;
+	}
+	div#main-city-list ol {
+		width:80%;
+	}
+	div#blogger-section div {
+		width:100% !important;	
+	}
+
+	p#find-more {
+		width:80% !important;
+		padding:10px;
+	}
+	p#find-more a {
+		color:#6eb857 !important;
+	}
+
+	#col-cuisine,#col-right {
+		display:none;
+	}
+	div#adsense-header-container {
+		top:200px !important;
+		width:100%;
+		margin:0 !important;
+	}
+	#adsense-header {
+		width:100%;
+		margin:0 !important;
+	}
+	.adsense-insert-ad {
+		display:block !important;
+	}
+	div#restaurants-main {
+		width:100% !important;
+	}
+	div#restaurants-main>div.clear {
+		height:50px !important;
+	}
+	div#col-listings {
+		width:100% !important;
+		margin-top:20px !important;
+		padding:0;
+		float:none;
+		clear:both;
+	}
+	#recap {
+		margin-left:10px !important;
+	}
+	#recap h1 {
+		margin-top:100px !important;
+		font-size:20px !important;
+	}
+	div#col-listings ul li {
+		width:100% !important;
+	}
+	div.restaurant-nap {
+		width:65% !important;
+		float:left !important;
+	}
+	div.restaurant-price-rating {
+		width:100% !important;
+		float:none !important;
+		clear:both !important;
+	}
+	div.restaurant-price-rating br.clear {
+		clear:none;
+		display:none;
+	}
+	div.restaurant-price-rating br.clear:last-of-type {
+		clear:both;
+		display:block;
+	}
+	div.restaurant-price {
+		margin-top:10px !important;
+		margin-left:30px !important;
+	}
+	#pagination,#pagination ol {
+		margin:0;
+		padding:0;
+	}
+	#pagination ol li {
+		font-size:12px;
+		padding:7px;
+		margin:0;
+	}
+	#homepage #body-header {
+		height:50px !important;
+	}
+	div#home-main {
+		width:100%;
+		height:400px;
+		margin:0 !important;
+	}
+	div#home-main h1 {
+		font-size:20px;
+		padding-top:30px;
+	}
+	div#home-search {
+		margin:0 10px !important;
+		padding:0 !important;
+	}
+
+	div#home-search #q,div#home-search #loc {
+		width:88% !important;
+		margin:10px 10px !important;
+	}
+	#home-search {
+		padding-top:10px !important;
+	}
+	#home-signup {
+		display:none;
+		margin-top:30px;
+	}
+	#home-search a {
+		margin-left:70px;
+	}
+	#home-signup a {
+		margin-left:0px !important;
+	}
+	#home-cities ul {
+		float:none;
+		width:100%
+		margin:0 !important;
+		padding:0 !important;
+		border-right:none !important;
+	}
+	#home-cities ul li {
+		margin:20px;
+	}
+	.holiday-col {
+		float:none;
+	}
+	.holiday-col li {
+		padding:5px 0 5px 25px;
+		float:none;
+	}
+	ul.city-cuisines {
+		display:block;
+		float:none;
+		width:100%;
+	}
+	div#featured-listing-promo {
+		display:none;
+	}
+
+	div#restaurant-photo-large {
+		width:100%;
+		margin:0 10px 20px 0;
+		padding:0;
+		float:none;
+	}
+	div#restaurant-photo-large img{
+		width:100%;
+	}
+
+	div#restaurant-photos-other {
+		width:100%;
+		padding:0;
+		float:none;
+	}
+
+	div#restaurant-photos-other ul li {
+		width:64px;
+
+	}
+
+	.rdc-offers {
+		margin-left:-75px;
+	}
+	.rdc-offers li {
+		margin:5px !important;
+	}
+}
